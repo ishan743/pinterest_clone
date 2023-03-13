@@ -1,0 +1,18 @@
+{
+  "name": "pinterest",
+  "homepage": "https://github.com/ishan743/pinterest_clone",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
